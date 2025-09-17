@@ -17,6 +17,7 @@ Clean code structure – object-oriented programming with documentation.
 GUI support – user-friendly interface via llm_gui.py.
 
 
+
 🚀 Installation
 
 Clone the repository:
@@ -28,8 +29,11 @@ cd LLM-RAG-enhancement-project
 Create and activate a virtual environment (optional but recommended):
 
 python -m venv venv
+
 source venv/bin/activate   # Linux/Mac
+
 venv\Scripts\activate      # Windows
+
 
 
 Install dependencies:
