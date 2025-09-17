@@ -1,0 +1,15 @@
+# Ignore Python cache
+__pycache__/
+
+# Ignore environment file
+.env
+
+# Ignore databases
+knowledge_base(text-files)/
+
+# Ignore temporary or test files
+New Text Document.txt
+q&a.txt
+rag.py
+main copy.py
+chatbot.py
